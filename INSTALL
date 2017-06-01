@@ -1,0 +1,9 @@
+Building PirateBlocks
+
+See doc/readme-qt.rst for instructions on building PirateBlocks QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PirateBlocks.
+
+See doc/build-*.txt for instructions on building PirateBlocksd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PirateBlocks.

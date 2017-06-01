@@ -1,0 +1,2 @@
+debian/bin/PirateBlocksd usr/bin
+src/PirateBlocksd usr/lib/PirateBlocks

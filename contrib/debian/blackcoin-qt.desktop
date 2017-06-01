@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PirateBlocks
+Comment=PirateBlocks P2P Cryptocurrency
+Comment[fr]=PirateBlocks, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PirateBlocks, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PirateBlocks-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/PirateBlocks;
+Categories=Office;
